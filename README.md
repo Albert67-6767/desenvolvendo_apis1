@@ -5,7 +5,7 @@ Nesta unidade será desenvolvida uma API em PHP para uma Biblioteca Escolar
 
 ## Stack de tecnologia 
 XAMP (Apache, MySql e PHP)
-Visua Studio Code
+Visual Studio Code
 Postman
 Git
 Composer
