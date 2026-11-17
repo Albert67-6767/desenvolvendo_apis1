@@ -1,2 +1,11 @@
 # desenvolvendo_apis1
 UC Desenvolvimento de APIs com PHP
+
+Nesta unidade será desenvolvida uma API em PHP para uma Biblioteca Escolar
+
+## Stack de tecnologia 
+XAMP (Apache, MySql e PHP)
+Visua Studio Code
+Postman
+Git
+Composer
